@@ -1,5 +1,5 @@
 {
-    "name": "protonlabs/paypal-merchant-sdk-php",
+    "name": "miralsoft/paypal-merchant-sdk-php",
     "description": "PayPal Merchant SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "homepage": "https://developer.paypal.com",
@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4.0",
         "ext-curl": "*",
-        "protonlabs/paypal-sdk-core-php": "3.*"
+        "miralsoft/paypal-sdk-core-php": "3.*"
     },
     "replace": {
         "paypal/merchant-sdk-php":"3.*"
